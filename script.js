@@ -17,7 +17,7 @@ let countDown = new Date('Sep 11, 2020 00:00:00').getTime(),
       //do something later when date is reached
       //if (distance < 0) {
       //  clearInterval(x);
-      //  'IT'S MY BIRTHDAY!;
+      //  'IT'S OUR WEDDING!;
       //}
 
     }, second)
